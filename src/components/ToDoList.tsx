@@ -75,7 +75,6 @@ function ToDoList() {
           </li>
         ))}
       </ol>
-      <p>Wisam</p>
     </div>
   );
 }
